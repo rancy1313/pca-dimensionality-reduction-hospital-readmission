@@ -33,12 +33,6 @@ Healthcare facilities can benefit from this analysis in several ways:
    - First principal component only
 5. **Performance Evaluation**: Compared models using accuracy, AUC, and recall metrics
 
-## Repository Contents
-- `pca_dimensionality_reduction.ipynb`: Jupyter notebook containing the complete analysis
-- `scaled_data.csv`: DataFrame containing standardized variables
-- `medical_clean.csv`: Original dataset (if applicable)
-- Images/: Directory containing visualizations (if applicable)
-
 ## Key Visualizations
 - Principal component matrix heatmap
 - Scree plot showing explained variance
