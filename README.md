@@ -39,10 +39,8 @@ Healthcare facilities can benefit from this analysis in several ways:
 - Model performance comparison metrics
 
 ## Future Work
-- Explore other dimensionality reduction techniques (t-SNE, UMAP)
 - Incorporate categorical variables into the analysis
 - Investigate clinical interpretations of principal components
-- Develop an integrated predictive system for clinical implementation
 
 ---
 
